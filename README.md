@@ -1,2 +1,2 @@
 # SQL Practice: International Debt
-SQL Practice
+SQL Practice - Provided by Data Camp
