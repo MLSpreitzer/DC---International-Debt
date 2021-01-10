@@ -1,2 +1,2 @@
-# DC---International-Debt
+# SQL Practice: International Debt
 SQL Practice
